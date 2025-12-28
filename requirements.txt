@@ -19,7 +19,7 @@
 ## flash_attn
 ## 
 
-torch==2.5.1
+torch>=2.0.0,<=2.6.0
 torchvision==0.20.1
 torchaudio==2.5.1 
 opencv-python==4.12.0.88
